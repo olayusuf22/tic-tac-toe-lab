@@ -3,7 +3,7 @@
 const colors = {
     'null': 'white',
     '1': 'lightblue',  // Player 'X'
-    '-1': 'lightcoral' // Player 'O'
+    '-1': 'lightpink' // Player 'O'
   };
   
   const winningCombos = [
